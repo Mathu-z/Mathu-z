@@ -15,16 +15,9 @@ Computer Science Student • AI • Machine Learning • Currently learning Reac
 Python • JavaScript • React • FastAPI • HTML • CSS • Git • Power BI 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mathu-z&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=Mathu-z&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathu-z&layout=compact&theme=tokyonight" />
-</p>
 
 ## 🚀 Featured Projects
 
