@@ -8,14 +8,14 @@
 Computer Science Student • AI • Machine Learning • Currently learning React
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI;Machine+Learning;WE+BALLI'N..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI;Machine+Learning;WE+BALLIN'..." />
 </p>
 ## 💻 Tech Stack
 
 Python • JavaScript • React • FastAPI • HTML • CSS • Git • Power BI 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mathu-z&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mathu-z&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@ Python • JavaScript • React • FastAPI • HTML • CSS • Git • Power B
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathu-z&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mathu-z&layout=compact&theme=tokyonight" />
 </p>
 
 ## 🚀 Featured Projects
