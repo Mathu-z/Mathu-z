@@ -2,4 +2,11 @@
   <img src="download.jpg" width="100%">
 </p>
 
-# Hi, I'm Mathu 👋
+<h1 align="center">Mathu</h1>
+
+<p align="center">
+Computer Science Student • AI • Machine Learning • Currently learning React
+</p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%7C+Full+Stack+Developer;Always+Learning..." />
+</p>
