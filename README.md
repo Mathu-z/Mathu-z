@@ -8,5 +8,5 @@
 Computer Science Student • AI • Machine Learning • Currently learning React
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%7C+Full+Stack+Developer;Always+Learning..." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Computer+Science+Student;AI+%7C+Machine+Learning;WE+BALLI'N..." />
 </p>
