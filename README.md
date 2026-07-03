@@ -25,3 +25,4 @@ Python • JavaScript • React • FastAPI • HTML • CSS • Git • Power B
 - 🔗 Sentinel URL
 - 🏭 Industry 4.0 Dashboard
 - 🌐 Portfolio Website
+
